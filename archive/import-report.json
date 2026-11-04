@@ -1,0 +1,54 @@
+{
+  "importedAt": "2026-11-04T08:36:31.508Z",
+  "source": "https://dimpapp.gr/",
+  "author": "Παππάς Δημήτρης",
+  "license": "CC BY-NC 4.0, εκτός όπου αναφέρεται διαφορετικά",
+  "totalPages": 164,
+  "publicPages": 157,
+  "protectedPages": [
+    {
+      "id": 11357,
+      "title": "Σχολεία 2026",
+      "source": "https://dimpapp.gr/%cf%80%cf%81%ce%bf%ce%b3%cf%81%ce%b1%ce%bc%ce%bc%ce%b1%cf%84%ce%b9%cf%83%ce%bc%cf%8c%cf%82/code/%cf%83%cf%87%ce%bf%ce%bb%ce%b5%ce%af%ce%b1-2026/"
+    },
+    {
+      "id": 11260,
+      "title": "Σχολεία 2025",
+      "source": "https://dimpapp.gr/%cf%80%cf%81%ce%bf%ce%b3%cf%81%ce%b1%ce%bc%ce%bc%ce%b1%cf%84%ce%b9%cf%83%ce%bc%cf%8c%cf%82/code/%cf%83%cf%87%ce%bf%ce%bb%ce%b5%ce%af%ce%b1-2025/"
+    },
+    {
+      "id": 9481,
+      "title": "Σχολεία 2024",
+      "source": "https://dimpapp.gr/%cf%80%cf%81%ce%bf%ce%b3%cf%81%ce%b1%ce%bc%ce%bc%ce%b1%cf%84%ce%b9%cf%83%ce%bc%cf%8c%cf%82/code/%cf%83%cf%87%ce%bf%ce%bb%ce%b5%ce%af%ce%b1-2024/"
+    },
+    {
+      "id": 9257,
+      "title": "Σχολεία 2023",
+      "source": "https://dimpapp.gr/%cf%80%cf%81%ce%bf%ce%b3%cf%81%ce%b1%ce%bc%ce%bc%ce%b1%cf%84%ce%b9%cf%83%ce%bc%cf%8c%cf%82/code/%cf%83%cf%87%ce%bf%ce%bb%ce%b5%ce%af%ce%b1-2023/"
+    },
+    {
+      "id": 7879,
+      "title": "Σχολεία 2021",
+      "source": "https://dimpapp.gr/%cf%80%cf%81%ce%bf%ce%b3%cf%81%ce%b1%ce%bc%ce%bc%ce%b1%cf%84%ce%b9%cf%83%ce%bc%cf%8c%cf%82/code/%cf%83%cf%87%ce%bf%ce%bb%ce%b5%ce%af%ce%b1-2021/"
+    },
+    {
+      "id": 6165,
+      "title": "Σχολεία 2020",
+      "source": "https://dimpapp.gr/%cf%80%cf%81%ce%bf%ce%b3%cf%81%ce%b1%ce%bc%ce%bc%ce%b1%cf%84%ce%b9%cf%83%ce%bc%cf%8c%cf%82/code/%cf%83%cf%87%ce%bf%ce%bb%ce%b5%ce%af%ce%b12020/"
+    },
+    {
+      "id": 4355,
+      "title": "Σχολεία 2019",
+      "source": "https://dimpapp.gr/%cf%80%cf%81%ce%bf%ce%b3%cf%81%ce%b1%ce%bc%ce%bc%ce%b1%cf%84%ce%b9%cf%83%ce%bc%cf%8c%cf%82/code/%cf%83%cf%87%ce%bf%ce%bb%ce%b5%ce%af%ce%b12019/"
+    }
+  ],
+  "mediaCopied": 789,
+  "mediaFailed": [],
+  "externalLinks": 472,
+  "h5pPages": 57,
+  "notes": [
+    "Η εξαγωγή περιλαμβάνει δημόσιες σελίδες WordPress. Δεν αποτελεί πλήρες αντίγραφο της εγκατάστασης WordPress.",
+    "Η θεματική ταξινόμηση και οι αντιστοιχίσεις τάξεων χρειάζονται παιδαγωγικό έλεγχο. Δεν έχουν επινοηθεί διάρκεια, στόχοι ή επίπεδο δυσκολίας.",
+    "H5P και εξωτερικές εφαρμογές ανοίγουν στην αρχική τοποθεσία. Δεν έχουν μεταφερθεί οι μηχανισμοί εκτέλεσής τους."
+  ]
+}
